@@ -52,7 +52,7 @@ function print()
     );
     console.log(taskValues);
 }
-
+// console.log()
 function deleteList(i)
 {
 
